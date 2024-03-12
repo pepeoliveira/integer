@@ -1,6 +1,6 @@
 {
   "name": "integer-tea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/pepeoliveira/integer.git"
@@ -9,11 +9,14 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "alt-tag-generator": "^1.0.2",
     "pepetea": "^0.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "world-weather-app": "^1.0.2",
+    "xfollowscrap": "^1.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
